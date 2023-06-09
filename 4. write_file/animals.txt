@@ -1,0 +1,13 @@
+Kot - Ssak
+Pies - Ssak
+Wąż - Gad
+Dziobak - SsakSowa - Ptak
+Komodo - Gad
+Szerszeń - Owad
+Tarantula - Gad
+Żaba - Płaz
+Miś - Ssak
+Koń - Ssak
+Pszczoła - Owad
+Kukułka - Ptak
+Mucha - Owad
